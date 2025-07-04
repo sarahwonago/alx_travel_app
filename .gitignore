@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myenv/
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Local settings
+.env
+
+# VSCode
+.vscode/
+
+# MySQL dump files
+*.sql
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# pytest / coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Swagger static docs (if generated)
+swagger.json
+swagger.yaml
+
+# sqlite
+.sqlite3
